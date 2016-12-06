@@ -1,0 +1,2 @@
+# TestApp
+This is test application that read all records (component names) from an XML-file and represent them to the user. The checkbox on the right side of each component indicates the current state of this record in an XML file. The checked checkbox means that the component is active, otherwise the component is commented out in an XML file. The application must be developed using C# WinForm, framework 2.0.
