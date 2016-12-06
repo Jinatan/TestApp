@@ -1,0 +1,8 @@
+c:\users\ivan\documents\visual studio 2010\Projects\TestTask\TestTask\bin\Debug\TestTask.exe
+c:\users\ivan\documents\visual studio 2010\Projects\TestTask\TestTask\bin\Debug\TestTask.pdb
+c:\users\ivan\documents\visual studio 2010\Projects\TestTask\TestTask\obj\x86\Debug\TestTask.Properties.Resources.resources
+c:\users\ivan\documents\visual studio 2010\Projects\TestTask\TestTask\obj\x86\Debug\TestTask.XMLViewer.resources
+c:\users\ivan\documents\visual studio 2010\Projects\TestTask\TestTask\obj\x86\Debug\TestTask.csproj.GenerateResource.Cache
+c:\users\ivan\documents\visual studio 2010\Projects\TestTask\TestTask\obj\x86\Debug\TestTask.exe
+c:\users\ivan\documents\visual studio 2010\Projects\TestTask\TestTask\obj\x86\Debug\TestTask.pdb
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\TestTask\TestTask\obj\x86\Debug\TestTask.csprojResolveAssemblyReference.cache
